@@ -1,2 +1,8 @@
 Hello, world!!!
+<<<<<<< HEAD
 !!!!!
+=======
+New line
+New line2
+New line3
+>>>>>>> 2a97b5eaa23a983f64807af53833b849b7b55ac9
